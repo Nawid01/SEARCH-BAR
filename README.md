@@ -16,7 +16,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Nawid"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Nawid" /></a></p>
 
-<br<
+<br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nawid01&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=333333&locale=en&layout=compact" alt="nawid01" /></p>
 
