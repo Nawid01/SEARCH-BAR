@@ -15,6 +15,8 @@
 
 <h3 align="left">Support:</h3>
 <br>
+<br>
+<br>
 <p><a href="https://www.buymeacoffee.com/Nawid"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Nawid" /></a></p>
 
 <br>
