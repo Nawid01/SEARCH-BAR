@@ -14,9 +14,9 @@
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 
 <h3 align="left">Support:</h3>
+
 <br>
-<br>
-<br>
+
 <p><a href="https://www.buymeacoffee.com/Nawid"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Nawid" /></a></p>
 
 <br>
